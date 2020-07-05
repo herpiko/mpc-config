@@ -1,3 +1,2 @@
-# mpc-configuration
-
+# mpc-config
 My Vortex Core layout onfiguration.
